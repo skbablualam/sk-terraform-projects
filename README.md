@@ -54,7 +54,7 @@ git commit -m "Initial AWS Terraform Project"
 
 git push origin main
 
-# 1. azure-resources #
+# 2. azure-resources #
 
 This Terraform project for Azure includes the following resources:
 
